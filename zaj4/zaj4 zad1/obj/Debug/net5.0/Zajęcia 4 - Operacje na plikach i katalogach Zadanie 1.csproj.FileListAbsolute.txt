@@ -1,0 +1,32 @@
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.exe
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.deps.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.runtimeconfig.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.pdb
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\refint\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.pdb
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Zajęcia 1 - Tablice, pętle\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\ref\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.exe
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.deps.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.runtimeconfig.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\bin\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.pdb
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\refint\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.pdb
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\DEV\Zaliczenie .NET\Programowanie .NET\Zajęcia 4 - Operacje na plikach i katalogach\obj\Debug\net5.0\ref\Zajęcia 4 - Operacje na plikach i katalogach Zadanie 1.dll

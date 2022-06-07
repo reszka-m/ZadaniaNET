@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zajęcia 4 - Operacje na plikach i katalogach Zadanie 2/1.0.0": {
+        "runtime": {
+          "Zajęcia 4 - Operacje na plikach i katalogach Zadanie 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zajęcia 4 - Operacje na plikach i katalogach Zadanie 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

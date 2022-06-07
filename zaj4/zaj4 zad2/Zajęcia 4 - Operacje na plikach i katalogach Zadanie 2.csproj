@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Zajęcia_4___Operacje_na_plikach_i_katalogach_Zadanie_2</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\bin\Debug\net6.0\zaj6.exe
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\bin\Debug\net6.0\zaj6.deps.json
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\bin\Debug\net6.0\zaj6.runtimeconfig.json
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\bin\Debug\net6.0\zaj6.dll
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\bin\Debug\net6.0\zaj6.pdb
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.csproj.AssemblyReference.cache
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.AssemblyInfoInputs.cache
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.AssemblyInfo.cs
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.csproj.CoreCompileInputs.cache
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.dll
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\refint\zaj6.dll
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.pdb
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\zaj6.genruntimeconfig.cache
+C:\Users\mszreder\Desktop\priv\repodotnet\zaj6\zaj6\obj\Debug\net6.0\ref\zaj6.dll

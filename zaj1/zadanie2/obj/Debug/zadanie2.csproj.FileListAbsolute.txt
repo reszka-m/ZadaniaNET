@@ -1,0 +1,7 @@
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\obj\Debug\zadanie2.pdb
+C:\Users\Mateusz Kox\source\repos\Projekt1\zadanie2\obj\Debug\zadanie2.csprojAssemblyReference.cache
